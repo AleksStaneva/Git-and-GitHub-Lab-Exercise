@@ -1,0 +1,10 @@
+Hello!
+
+My name is Diana Strahilova.
+
+I am a chef by day and a SoftUni student by night.
+
+Currently living in Ireland.
+
+I am hoping to learn more skills in programming with SoftUni to change careers. Besides Python, I have experience with HTMl, CSS, JavaScript
+and Django framework, which I am really interested in.
