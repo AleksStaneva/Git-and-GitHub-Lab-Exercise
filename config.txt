@@ -1,0 +1,23 @@
+Hi, everyone!
+We are currently at this stage:
+
+
+    2.	Create a Git Conflict & Merge
+•	All team members create a common file, "config.txt".
+•	Each team member adds some settings in "config.txt", e.g.:
+o	name = Peter
+o	size = 100
+o	email = peter@dir.bg
+•	Each team member commits his local changes.
+•	Each team member syncs his changes:
+o	The first member will succeed without conflicts.
+o	The others will have a conflict to be merged.
+o	Resolve the conflict:
+	Edit the merged changes + commit and sync again.
+
+Please change the following information with your details in order to create a conflict:
+
+
+name = Aleksandra
+favourite_colour = blue
+current_location =  Sofia, Bulgaria
