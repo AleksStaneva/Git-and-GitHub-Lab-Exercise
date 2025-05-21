@@ -22,3 +22,7 @@ Please change the following information with your details in order to create a c
 name = Lachezar
 favourite_colour = yellow
 current_location =  Pirdop, Bulgaria
+
+name = Diana
+favourite_colour = purple
+current_location =  Cork, Ireland
